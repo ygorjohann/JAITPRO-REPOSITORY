@@ -91,7 +91,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #0652a8ce;
 }
 
 .overlay-mf {
@@ -106,7 +106,9 @@ a:hover {
 
 .paralax-mf {
   position: relative;
-  padding: 8rem 0;
+  /*padding: 8rem 0;*/
+ padding: 45px;
+	
 }
 
 .display-table {
